@@ -14,7 +14,11 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When doing some expriement, adding new features or fixing bugs in production code.
+
 How do the diagrams help you visualize the branch structure?
+
+what are the branches are available and its reachability.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
